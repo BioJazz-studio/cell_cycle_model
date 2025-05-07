@@ -1,5 +1,7 @@
 # `cell_cycle_model`
 
+[![DOI](https://zenodo.org/badge/311147606.svg)](https://zenodo.org/badge/latestdoi/311147606)
+
 `cell_cycle_model` is a repository that stores several cell cycle model versions. It also provides utility functions to compare different cell cycle model versions.
 
 ## Models
@@ -26,7 +28,7 @@ promoter (formerly called Px).
 
 
 ## Development team
-This package was developed by [Paul F. Lang](https://www.linkedin.com/in/paul-lang-7b54a81a3/) at the University of Oxford, UK.
+This package was developed by [Paul F. Lang](paul.lang100@gmail.com) at the University of Oxford, UK.
 
 ## Questions and comments
 Please contact [Paul F. Lang](mailto:paul.lang@wolfson.ox.ac.uk) with any questions or comments.
